@@ -1,6 +1,8 @@
 **The Spaceship Condemned**
 ===================
 
+![Main logo](https://media.moddb.com/images/downloads/1/124/123138/IMAG.png)
+
 <i class="icon-info"></i> :information_source: **Description**
 -------------
 
