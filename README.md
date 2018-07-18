@@ -27,6 +27,6 @@ dev'essere qualcosa che non funziona.
 
 #### <i class="icon-download"></i> **Executable:**
 
-[<i class="icon-provider-github"></i> Download from Github]
-(https://github.com/Wemarcus/TheSpaceshipCondemned/raw/master/Debug/Progetto%20ASD%202013%20(C%2B%2B)%20(MOD).exe)
+[<i class="icon-provider-github"></i> Download from Github](https://github.com/Wemarcus/TheSpaceshipCondemned/raw/master/Debug/Progetto%20ASD%202013%20(C%2B%2B)%20(MOD).exe)
+
 -------------
